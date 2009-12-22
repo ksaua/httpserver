@@ -1,0 +1,7 @@
+# httpserver
+
+A simple http-server/framework using clojure.
+
+## License
+
+Licensed under the BSD license.
